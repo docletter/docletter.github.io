@@ -1,0 +1,23 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    color: green;
+    background-color: white;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+#content {
+    margin: 20px;
+}
+
+section {
+    background-color: #e8f5e9;
+    /* ein heller Grünton */
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
